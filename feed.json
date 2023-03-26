@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "التلسكوب",
+    "description": "",
+    "home_page_url": "https://telescope-dmx.pages.dev",
+    "feed_url": "https://telescope-dmx.pages.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "المستكشف"
+    },
+    "items": [
+    ]
+}

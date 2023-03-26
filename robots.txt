@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://telescope-dmx.pages.dev/sitemap.xml
